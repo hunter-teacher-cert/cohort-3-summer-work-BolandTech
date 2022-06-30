@@ -1,0 +1,10 @@
+Answer - Exercise 5.12-5
+
+What is the output of the following program? Determine the answer without using a computer. (See Hoopy.java)
+
+The output print in the following order:
+  1) PART 2 prints -> true
+  2) PART 3 prints -> true
+  3) PART 1 PRINTS -> ping! pong!
+
+
