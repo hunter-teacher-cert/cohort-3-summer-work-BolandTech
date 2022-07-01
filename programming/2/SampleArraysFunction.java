@@ -26,7 +26,7 @@ class ArrayExamples{
 }
   //returns position of target item if found
   //If not found return the array size
-public static int find (int tergetItem, int [ ] data){
+public static int find (int targetItem, int [ ] data){
   for (int i=0; i < data.length; i++)
   { 
     if (data[i] == tergetItem) return i;
