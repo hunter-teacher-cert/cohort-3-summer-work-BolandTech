@@ -1,10 +1,9 @@
 //Room #1 - Mr-Adams, BolandTech, cdesilva2, qvzou
 
-import java.util.Random*;
+import java.util.*;
 import java.io.*;
 
-public class ArrayPractice
-{
+public class ArrayPractice {
 
   /**
      Parameters:
@@ -14,16 +13,18 @@ public class ArrayPractice
      a new array where each element is an integer between 0
      and up to but not including maxValue
   */
-  public static int[] buildRandomArray( int size, int maxValue )
-  {
+  public static int[] buildRandomArray( int size, int maxValue ) {
+    
     Random r = new Random();//creating Random object
     int[ ] data = new int[size];
-      for(int i = 0; i < data.length; i++){
-        data [i]= r.nextInt(maxValue);
+      for(int i = 0; i < data.length; i++) {
+        data [i] = r.nextInt(maxValue);
+        System.out.println(data[i]); 
 
     return data.length;
   }
-
+  }
+}
 
   /**
      Parameters:
@@ -34,11 +35,22 @@ public class ArrayPractice
      Note: data.length stores the length of the array
      Another Note: yes, we know William live coded this a few minutes ago.
   */
+
+  // precondition: Assumes array is filled   
   public static void printArray( int[] data )
   {
-    /* YOUR BRILLIANT CODE HERE */
+    for (int i=0; i<data.length; i++) {
+      System.out.print(data[i] + " ") ;
   }
-
+  System.out.println("");
+  }
+  //precondition: Assume array is partially filled
+  public static void printPartialArray(int[ ] data, int currSize_p) {
+    for (int i=0; i<currSize_p; i++) {
+      System.out.print(data[i] + " ") ;
+    }
+    System.out.println("");
+  }
 
 
   /**
