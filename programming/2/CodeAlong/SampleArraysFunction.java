@@ -2,7 +2,7 @@ class ArrayExamples{
 
   static int [] {45, 23, 78, 99, 12};
   // static int someDataSize = someData.length;
- someDate[3] = 0;
+ someData[3] = 0;
  someData[4] = 0;
   static int someDataSize = 3;
   
@@ -29,7 +29,7 @@ class ArrayExamples{
 public static int find (int targetItem, int [ ] data){
   for (int i=0; i < data.length; i++)
   { 
-    if (data[i] == tergetItem) return i;
+    if (data[i] == targetItem) return i;
   }
   //post condition: loop ends
   return data.length;

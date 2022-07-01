@@ -1,4 +1,6 @@
-import java.util.*;
+//Room #1 - Mr-Adams, BolandTech, cdesilva2, qvzou
+
+import java.util.Random*;
 import java.io.*;
 
 public class ArrayPractice
@@ -14,12 +16,12 @@ public class ArrayPractice
   */
   public static int[] buildRandomArray( int size, int maxValue )
   {
-    Random r = new Random();
-    int[] data = new int[size];
+    Random r = new Random();//creating Random object
+    int[ ] data = new int[size];
+      for(int i = 0; i < data.length; i++){
+        data [i]= r.nextInt(maxValue);
 
-    /* YOUR BRILLIANT CODE HERE */
-
-    return data;
+    return data.length;
   }
 
 
