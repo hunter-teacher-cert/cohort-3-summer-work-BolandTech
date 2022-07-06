@@ -40,7 +40,7 @@ import java.util.*;
    other methods.
 */
 
-public class Array2DPractice
+public class Array2DPracticeV2
 {
   public static char[][] buildBoard( int rows, int cols, char value )
   {
