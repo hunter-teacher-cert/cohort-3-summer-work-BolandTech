@@ -1,7 +1,7 @@
 /**
  * Rational class by Team BangPi
  * First Last
- * collaborators: First Last, First Last
+ * collaborators: Steven S., Yenmin Y., Yanique S., Latoya B.
  */
 
 
@@ -38,7 +38,6 @@ public class Rational
     _denominator = 1;
   }
 
-
   // overloaded constructor
   // takes 2 parameters, one for the numerator, one for the denominator
   // if an invalid denominator is attempted, should print a message and set the number to 0/1
@@ -74,7 +73,8 @@ public class Rational
   // need not reduce
   public void multiply( Rational r )
   {
-    r = this.floatValue() * r.floatValue())
+    _numerator *= r._numerator;
+    _denominator *= r._denominator;
    
   }
 
@@ -83,7 +83,8 @@ public class Rational
   // same as multiply, except operation is division
   public void divide( Rational r )
   {
-    /* YOUR ELEGANT CODE HERE */
+    _numerator *= r._denominator;
+    _denominator *= r._numerator;
   }
 
 }//end class

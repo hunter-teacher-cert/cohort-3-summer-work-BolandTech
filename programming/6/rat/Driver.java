@@ -1,6 +1,9 @@
 /**
  * class Driver
  * tester class for class Rational
+
+* collaborators: Steven S., Yenmin Y., Yanique S., Latoya B.
+
  */
 
 public class Driver
@@ -20,7 +23,7 @@ public class Driver
       System.out.println("t: " +  t );
 
     //System.out.println();
-    /*~~~~~v~~~~~~~~~~down~goer~3~~~~~~~~~~~~~v~~~~~
+
       System.out.println( r + " as a floating pt approximation: "
       + r.floatValue() );
       System.out.println( s + " as a floating pt approximation: "
@@ -33,7 +36,7 @@ public class Driver
       System.out.print( r + " / " + t + " = ");
       r.divide(t);
       System.out.println(r);
-      ~~~~~|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~~*/
+
   }
 
 }//end class
