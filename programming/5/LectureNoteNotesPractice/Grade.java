@@ -1,0 +1,31 @@
+class Grade {
+
+  private String ID;
+  private double score;
+  private double weight;
+
+  public void setID (String id){
+    ID = id;
+  }
+
+  public string getID() {
+    return ID;
+  }
+  
+  public Grade() {
+    ID = "";
+    score = 0.0;
+    weight = 0.0;
+  }
+  
+  public Grade(String id, double s, double w){
+    ID = id;
+    score = s;
+    weight = w;
+  }
+  
+  public void enterInfo(){
+    Scanner input = new Scanner(System.in);
+    System.out
+  }
+}
