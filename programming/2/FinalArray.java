@@ -35,8 +35,8 @@ public class FinalArray{
      size - how many elements in the array
      maxValue - the largest possible random value to use
      Returns:
-     a new array where each element is an integer between 0
-     and up to but not including maxValue
+     a new array where each element is an integer between 0 and up to but not   
+     including maxValue
   */
   public static int[] buildRandomArray( int size, int maxValue )
   {
@@ -135,13 +135,10 @@ public class FinalArray{
       return max;
   }
   
-
   public static void main( String[] args )
   {
     int value = 0;
-    // remove the comments as you complete each routine
-    
-    // and add more lines as you add additional routines.
+   
     Scanner input = new Scanner(System.in);
       
       System.out.println("What value would you like to search for? (0-20)");
