@@ -1,0 +1,4 @@
+Solutions Web References
+
+Google Search - create rational function java
+https://introcs.cs.princeton.edu/java/92symbolic/Rational.java.html
