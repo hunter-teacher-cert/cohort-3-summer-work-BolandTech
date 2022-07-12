@@ -1,2 +1,3 @@
 language = "bash"
-run = ""
+#run = "cd ds/arraylists; javac AlPractice.java; java AlPractice"
+run = "cd ds/arraylists; javac AlPractice.java; java AlPractice"
