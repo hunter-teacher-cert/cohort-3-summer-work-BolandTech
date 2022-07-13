@@ -1,0 +1,12 @@
+Write a code fragment to:
+1. Create a new Node variable  set it to point to the node with the 10 in it.
+2. Create a new Node variable and instantiate it to a new Node with a
+   value of 30.
+3. Write the code to insert this new Node between the 10 and the 15
+
+   
+*** Submission
+
+Scan or take a photo of your work and upload to your ds/Pointers
+folder/directory. Name the file pointers.png, pointers,pdf,
+pointers.gif, or pointers.jpg depending on the file format.
