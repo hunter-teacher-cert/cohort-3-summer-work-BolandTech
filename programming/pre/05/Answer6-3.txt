@@ -10,27 +10,27 @@ public class Triangle {
         Scanner sc=new Scanner(System.in);
         int a,b,c;
 
-//user input a,b,c values for triangle sides
+//User input a,b,c values for triangle sides
         System.out.println("Enter the lengths of sides a,b,c:");
         a=sc.nextInt();                                        
         b=sc.nextInt();
         c=sc.nextInt();
 
-//checking values and printing error message
+//Checking values and print statements
         if(a<=0 || b<=0 ||c<=0)  
 
         {
-            System.out.println("ERROR:lengths should not be less than or equal to zero");
+            System.out.println("ERROR: The side lengths cannot be less than or equal to zero");
         }
 
-//conditions for creating triangle
+//Conditions for creating triangle
         else if(a<=b+c && b<=a+c && c<=a+b)       
         {
-            System.out.println("You can form a triangle");
+            System.out.println("These side lengths create a triangle!!!");
         }
         else
         {
-            System.out.println("You cannot form a triangle");
+            System.out.println("These side lengths cannot create a triangle!!!");
         }
     }
 }
