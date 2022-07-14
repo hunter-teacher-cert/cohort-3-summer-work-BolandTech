@@ -12,7 +12,7 @@ public class Triangle {
         b=sc.nextInt();
         c=sc.nextInt();
 
-//checking values and printing error message
+//checking values and print error message
         if(a<=0 || b<=0 ||c<=0)  
 
         {
