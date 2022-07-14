@@ -1,8 +1,3 @@
-Exercise 6-2
-
-Directions: Write a method named isDivisible that takes two integers, n and m, and that returns true if n is divisible by m, and false otherwise.
-
-
 import java.util.*;
 
 class Divisible {
