@@ -2,18 +2,34 @@ Solutions Web References
 
 Google Search - java program that program that chooses a random number, prompts the user to guess it, and displays the difference between the guess and the chosen number.
 
-https://stackoverflow.com/questions/40889496/guess-my-number-exercice-5-7-in-think-java
+1) https://stackoverflow.com/questions/40889496/guess-my-number-exercice-5-7-in-think-java
 
 
 Google Search - print america think java
 
-http://thinkjavasolutions.blogspot.com/2016/02/exercise-34.html
+1) http://thinkjavasolutions.blogspot.com/2016/02/exercise-34.html
 
 
 Google Search - think java chapter 5 solutions
 
-https://github.com/ApolloZhu/Think-Java-Exercises/tree/master/Chapter5
+1) https://github.com/ApolloZhu/Think-Java-Exercises/tree/master/Chapter5
 
 
 Google Search - fermat's last theorem java
-https://github.com/AllenDowney/thinkjavasolutions5/blob/master/chap04/Exercise06.java
+
+1) https://github.com/AllenDowney/thinkjavasolutions5/blob/master/chap04/Exercise06.java
+
+
+Google Search - Ackerman java
+
+1) https://course.ccs.neu.edu/cs5010f17/Efficiency2/ackermann2.html?
+
+2) https://introcs.cs.princeton.edu/java/53universality/Ackermann.java
+
+3) https://stackoverflow.com/questions/1628756/learning-java-recursion-ackerman-function
+
+4) https://stackoverflow.com/questions/8694065/the-ackermann-function-and-recursion
+
+
+
+
