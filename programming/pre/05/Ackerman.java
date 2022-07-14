@@ -1,10 +1,3 @@
-Exercise 6-8
-
-Directions: Write a method called ack that takes two ints as parameters and that computes and returns the value of the Ackermann function.
-
-Test your implementation of Ackermann by invoking it from main and displaying the return value. Note the return value gets very big very quickly. You should try it only for small values of m and n (not bigger than 3).
-
-
 public class Ackerman {
 
 	//Rule  n >= 0, m >= 0

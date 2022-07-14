@@ -1,6 +1,6 @@
 language = "bash"
 #run = "cd ds/arraylists; javac AlPractice.java; java AlPractice"
 
-run = "cd ds/arraylists; javac AlPractice.java; java AlPractice"
+#run = "cd ds/arraylists; javac AlPractice.java; java AlPractice"
 
 # run = "cd ds/arraylists; javac AlPractice_Demo.java; java AlPractice_Demo"
