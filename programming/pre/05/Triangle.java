@@ -1,7 +1,3 @@
-Exercise 6-3
-
-Directions: Write a method named isTriangle that takes three integers as arguments and returns either true or false, depending on whether you can or cannot form a triangle from sticks with the given lengths. The point of this exercise is to use conditional statements to write a value method.
-
 import java.util.*;
 
 public class Triangle {
