@@ -1,5 +1,6 @@
 // Write a program that displays the entire lyrics of “99 Bottles of Beer”. Your program should include a recursive method that does the hard part, but you might want to write additional methods to separate other parts of the program. As you develop your code, test it with a small number of verses, like 3.
 
+// ***How can I get the third to last line to say "bottle"?
 
 public class Beer {
     public static void main(String[] args) {
@@ -10,7 +11,7 @@ public class Beer {
 
         while (beerAmt > 0) {
 
-//modify word based on number beers
+//modify word based on number beers 
             if (beerAmt == 1) {
                 word = "bottle"; 
             }
