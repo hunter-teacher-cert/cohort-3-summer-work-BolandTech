@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class SuperArray2Driver
+public class SuperArrayDriver
 {
   public static void main( String[] args )
   {
@@ -11,6 +11,7 @@ public class SuperArray2Driver
 
     System.out.println("Testing empty print:");
     System.out.println(sa);
+    
     System.out.println("Testing isEmpty (should be true)");
     System.out.println(sa.isEmpty());
 
@@ -23,6 +24,7 @@ public class SuperArray2Driver
 
     System.out.println("Testing empty print:");
     System.out.println(sa2);
+    
     System.out.println("Testing isEmpty (should be true)");
     System.out.println(sa2.isEmpty());
 
@@ -34,6 +36,7 @@ public class SuperArray2Driver
     System.out.println(sa2);
     sa2.remove(3);
     System.out.println(sa2);
+    
     //testing get()
     System.out.print("What value is the index of 3 now?");
     System.out.println(" The value of " + sa2.get(3) + ".");

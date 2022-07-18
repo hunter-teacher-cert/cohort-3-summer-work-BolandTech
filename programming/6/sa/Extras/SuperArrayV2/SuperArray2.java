@@ -1,4 +1,4 @@
-/**
+java/**
  * SuperArray by Team 1
  * Yenmin Young
  * collaborators: Yanique Sears, Latoya Boland, Stephen Sabaugh
@@ -18,8 +18,7 @@
 import java.io.*;
 import java.util.*;
 
-public class SuperArray
-{
+public class SuperArray2 {
   /**
      SUBGOAL:
      declare instance vars
@@ -34,7 +33,7 @@ public class SuperArray
 
   // ~~~~~~~~~~~~~~~ CONSTRUCTORS ~~~~~~~~~~~~~~~
   //overloaded constructor -- allows specification of initial capacity
-  public SuperArray( int size )
+  public SuperArray2 ( int size )
   {
     //init underlying/inner storage of specified capacity
     data = new int [size];
@@ -44,7 +43,7 @@ public class SuperArray
   }
 
   //default constructor -- initializes capacity to 10
-  public SuperArray()
+  public SuperArray2 ()
   {
     //init underlying/inner storage of capacity 10
     data = new int [10];
