@@ -1,3 +1,6 @@
+//Bar Graph activity
+// Programmers: Latoya Boland & Seth Adams
+
 /*if x=[0,1,2,3] then barGraphify(x) will output
 0:
 1: =

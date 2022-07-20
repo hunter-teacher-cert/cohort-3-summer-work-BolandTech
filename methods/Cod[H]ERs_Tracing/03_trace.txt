@@ -1,0 +1,52 @@
+Team Cod[H]ERs :: Marisa Shuman, Latoya Boland, Elizabeth Rechtin, Jihae Park
+Methods - Summer 2022
+CODE TRACING in the classroom
+======================================
+
+
+PROS:
+---------------------------------------
+Code/Algorithm tracing helps us understand how the method works. It helps to understand how the computer processes the information, possibly differently than how a human approaches it. Provides a visual as well. Key word: PROCESS -- this is the process the computer takes (there is a difference between how we view a problem, we are often able to think ahead). Having a chance to think it all through helps us understand why some of our approaches might be complicating the code. This helps the coder understand what the computer needs in terms of steps so that we can turn it into code.
+Code tracing in groups can be helpful because it has a social aspect and allows you to see how other people visualize the same problem.
+After you code trace you can more confidently say that you understand how each line of code works.
+
+
+CONS:
+---------------------------------------
+Difficulty (not con): how to teach students how to do this (and not do it for them) and also how to show students that this is important. Must be made to be a routine so that it becomes second hand.
+It is not the most exciting thing for students to do because there is not the return of testing the code (no payoff for the hardwork). Not as motivating.
+Pretty meticulous process, it is very time consuming (even though it is worth it). Often it doesn't allow you to see something right away which can be frustrating.
+
+
+BEST FOR:
+---------------------------------------
+Iteration, Concatenating, Calling functions with different arguments
+Recursion
+Incrementation
+Helpful to track relationships or see how one thing is changed over time; cause and effect.
+
+
+LEAST-SUITED TO:
+---------------------------------------
+Stand alone things -- static code.
+Syntax
+
+
+PROVEN PRO-TIPS:
+---------------------------------------
+Using color is *very* helpful! -- use color with purpose.
+Helpful to do this activity as a group or partnership so that all students can benefit from other's experience and opinions. (both pseudocoding & trace coding in groups)
+**THINK TIME** -- one minute before starting to think out loud.
+If you are going to be tracing with drawings (arrows, etc) -- use paper.
+Draw independently (during think time) and then come together and draw one as a group
+
+
+RESOURCES:
+---------------------------------------
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+https://visualgo.net/en
+https://runestone.academy/ns/books/published//csawesome/index.htm
+
+
+OTHER:
+---------------------------------------
