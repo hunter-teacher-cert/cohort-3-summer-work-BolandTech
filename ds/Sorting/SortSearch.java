@@ -176,7 +176,7 @@ public class SortSearch{
           return mid;
         } else //not done with this part
           if(data.get(mid)< value){
-            low
+            return low;
           }
         
       }
